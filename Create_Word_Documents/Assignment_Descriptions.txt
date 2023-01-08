@@ -1,0 +1,10 @@
+- 25.3.10 - Packet Tracer - Explore a NetFlow Implementation
+- 25.3.11 - Packet Tracer - Logging from Multiple Sources
+- 26.1.7 - Lab - Snort and Firewall Rules
+- 27.1.5 - Lab - Convert Data into a Universal Format
+- 27.2.9 - Lab – Regular Expression Tutorial
+- 27.2.10 - Lab - Extract an Executable from a PCAP
+- 27.2.12 - Lab - Interpret HTTP and DNS Data, Isolate Threat Actor
+- 27.2.14 - Lab - Isolate Compromised Host Using 5-Tuple
+- 27.2.15 - Lab - Investigate a Malware Exploit
+- 27.2.16 - Lab - Investigating an Attack on a Windows Host
